@@ -1,0 +1,5 @@
+Apex Financials Complaints Unveiled : In my project, I conducted a comprehensive analysis of customer complaints within Apex Financials, utilizing the powerful data visualization capabilities of Tableau. This project involved dissecting complaint data across various dimensions, including monthly trends, common issues, products with the most complaints, and geographical segmentation. Through Tableau, I transformed complex complaint data into accessible and insightful visualizations. The project not only highlights my proficiency in data analysis and visualization but also underscores my ability to provide actionable insights by examining patterns and trends in customer feedback. This Apex Financials Complaint Analysis project serves as a valuable resource for understanding customer concerns and areas for improvement within the company. It showcases my skills in extracting meaningful insights from data, making it a compelling addition to my portfolio.
+
+Results of my Apex Financials Complaints Unveiled Project :
+
+![Complaints Dashboard](https://github.com/jareddroz/Tableau_Projects/assets/143546043/306e6eb6-7443-4ed5-9147-ae45560a179a)
