@@ -1,0 +1,5 @@
+Regionwise Sales Analysis : In my project, I crafted an interactive and dynamic Tableau dashboard focused on analyzing regional sales performance. This dashboard empowers users to delve into regional data and gain valuable insights into sales trends. The analysis encompassed examining sales data across categories, sub-categories, and monthly trends. Using Tableau's robust data visualization tools, I transformed complex datasets into interactive visualizations, making it easy for stakeholders to explore sales data across various dimensions. This Regional Sales Analysis project highlights my proficiency in data visualization and analysis, showcasing my ability to deliver actionable insights that inform strategic decisions. It serves as a valuable resource for organizations seeking to understand and optimize regional sales performance, making it an excellent addition to my portfolio.
+
+Results of my Regionwise Sales Analysis Project :
+
+![Regional Sales Dashboard](https://github.com/jareddroz/Tableau_Projects/assets/143546043/f79d6fac-e502-4a0a-afc4-10140b74a0b8)
